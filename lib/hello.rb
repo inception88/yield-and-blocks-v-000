@@ -7,4 +7,4 @@ def hello_t(array)
   array
 end
 
-hello_t([Tom])
+hello_t(["Tom"])
